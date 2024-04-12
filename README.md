@@ -10,12 +10,17 @@
 
 
 ## 👨‍💻  스터디원
-
-| 이름   | GitHub                                         |
-| ------ | ---------------------------------------------- |
-| 윤도현 | [@dohyeonYoon](https://github.com/dohyeonYoon) |
-| 이수민 | [@vsuminv](https://github.com/vsuminv) |
-| 박설진 | [@gjivaeri](https://github.com/gjivaeri) |
+<p>
+<a href="https://github.com/dohyeonYoon">
+  <img src="https://github.com/dohyeonYoon.png" width="100">
+</a>
+<a href="https://github.com/vsuminv">
+  <img src="https://github.com/vsuminv.png" width="100">
+</a>
+<a href="https://github.com/gjivaeri">
+  <img src="https://github.com/gjivaeri.png" width="100">
+</a>
+<p>
 
 
 ## 📚 알고리즘 Study
