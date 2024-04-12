@@ -1,5 +1,5 @@
 # CS-Study
-면접대비 CS 스터디
+코딩테스트 및 CS면접 대비 스터디
 
 
 ## 📘 Rule
@@ -16,7 +16,6 @@
 | 윤도현 | [@dohyeonYoon](https://github.com/dohyeonYoon) |
 | 이수민 | [@vsuminv](https://github.com/vsuminv) |
 | 박설진 | [@gjivaeri](https://github.com/gjivaeri) |
-| 김인회 | [@in_Hoi](https://github.com/inhoi) |
 
 
 ## 📚 알고리즘 Study
